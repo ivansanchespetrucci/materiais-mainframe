@@ -1,0 +1,174 @@
+*Acronimos IBM Mainframe e seus significados*
+
+
+3270->Unidade de Interação com Mainframe, também conhecido como Terminal Burro
+
+ABEND-> Abnormal end -> Termino anormal, cancelamento de job/programa.
+
+AMS -> Access Method Service -> Serviço de Método de Acesso
+
+ANSI -> American National Standard Institute -> Instituto Nacional Americano de Padrões
+
+APAR ->  Authorized Program Analysis Report -> Relatório de Análise de Programa Autorizado
+
+APF -> Authorized Program Facility -> Instalação de Programa Autorizada
+
+APPLID -> Application Identifier -> Identificador do aplicativo
+
+ASA -> American National Standards Institute -> Instituto Nacional Americano de Padrões
+
+CA -> Control Area -> Area de Controle
+
+CICS -> Customer Information Control System -> Sistema de Controle de Informações do Cliente 
+
+CI -> Control Interval -> Controle de Intervalo
+
+CIDF -> Control Interval Definition Field -> Campo de definição de intervalo de controle
+
+CISZ -> Control Interval Size -> Tamanho do intervalo de controle
+
+COBOL -> Common Business Oriented Language -> Linguagem Comum Orientada a Negócios
+
+CODASYL -> Conference on Data Systems Languages-> Conferência sobre Linguagens de Sistemas de Dados
+
+CPU -> Central Processor Unit -> Unidade Central de Processamento
+
+CSP -> Cross System Product -> Produto Intersistêmico
+
+DASD -> Direct Access Storage Device -> Dispositivo de armazenamento de acesso direto
+
+DB2 -> DataBase 2 -> Banco de Dados 2
+
+DCB -> Data Control Block -> Bloco de Controle de Dados
+
+DD -> Data description -> Definição de dados
+
+DDNAME -> Data Definition name -> Nome da definição de dados 
+
+DISP -> Disposition -> Disposição
+
+DL/I -> Data Language Interface -> Interface de linguagem de dados
+
+DSN -> Data Set Name -> Nome do conjunto de dados
+
+DSORG -> Data set Organization -> Organização de conjuntos de dados 
+
+EBCDIC -> Extended Binary Coded Decimal Interchange Code -> Código de intercâmbio decimal codificado em binário estendido
+
+ESDS -> Entry Sequenced Data Set -> Conjunto de dados sequenciados de entrada
+
+F -> Fixed -> Tamanho Fixo
+
+FB -> Fixed Blocked -> Tamanho Fixo Blocado
+
+FBS->Fixed Blocked Size -> Tamanho de bloco fixo
+
+FTP -> File Transfer Protocol -> Protocolo de Transferência de Arquivos
+
+FORTRAN -> Formula Translator -> Tradutor de Fórmulas
+
+GDG->Generation Data Group->Arquivo sequencial em Grupo
+
+HLL->High Level Language.-> Linguagem de programação em Alto Nível
+
+HLASM -> High Level Assembler -> Ensamblador (Montador) de alto nível
+
+HLQ -> High Level Qualifier -> Qualificação de alto nível
+
+IBM -> International Business Machines Corporation ->Corporação Internacional de Máquinas Comerciais ->
+
+ICF -> Integrated Data Cluster -> Instalação Integrada Cat-lg
+
+IDC -> Integrated Data Cluster -> Cluster de Dados Integrados 
+
+IDCAMS -> Integrated Data Cluster Access Method Service -> Serviço de Método de Acesso a Cluster de Dados Integrados
+
+IDMS -> Integrated Database Management System -> Sistema Integrado de Gerenciamento de Banco de Dados
+
+IMS -> Information Management System -> Sistema de Gestão de Informações
+
+IPCS  -> Interactive Program Control System -> Sistema de controle de programa interativo
+
+IPL->Initial Program Load-> Carga inicial de programas. Inicialização do Maiframe 
+
+ISN-> Internal sequence number -> Numero Interno Sequencial
+
+ISPF -> Interactive System Productivity Facility -> Instalação de Produtividade do Sistema Interativo
+
+JCL -> Job Control Language -> Linguagem de Controle de Tarefas
+
+JES -> Job Entry System-> Sistema de entrada de trabalhos.
+
+KSDS -> Key Sequenced Data Set -> Conjunto de dados sequenciados por chaves 
+
+LPAR -> Logical Partition -> Partição Lógica
+
+LRECL -> Logical Record length -> Comprimento do registro lógico
+
+MAXCC -> Maximum Condition Code -> Código de Condição Máxima
+
+MIPS -> Millions of Instructions Per Second -> Milhões de instruções por segundo
+
+MRI -> Mainframe Resource Intelligence -> Inteligência de Recursos de Mainframe
+
+MVS -> Multiple Virtual System -> Sistema Virtual Múltiplo
+
+MVS/ESA -> Extended Architecture -> Arquitetura de Sistemas Empresariais
+
+MVS/XA -> Extended Architecture -> Arquitetura Estendida
+
+PA1 Key -> Program Access 1 -> Acesso ao Programa 1
+
+PDF -> Program Development Facility -> Instalação de Desenvolvimento de Programas
+
+PDS -> Enterprise System Architecture -> Conjunto de dados porcionados
+
+PFKEY -> Program Function keys -> Teclas de função do programa
+
+PL/I -> PLI 
+
+PLI -> Programming Language-> Linguagem de Programação 1
+
+PSDS -> Physical Sequential Data Set -> Conjunto de Dados Sequenciais Físicos
+
+QMF -> Query Management Facility -> Instalação de gerenciamento de consultas
+
+RACF -> Resource Access Control Facility -> Instalação de Controle de Acesso a Recursos
+
+REXX -> Restructured Extended Executor-> Executor Estendido Reestruturado
+
+RECFM -> Record Format -> Formato de gravação
+
+RJE -> Remote Job Entry -> Entrada de trabalho remoto
+
+RRDS -> Relative Record Data Set -> Conjunto de dados de registros relativos
+
+Rrn -> Relative Record Number -> Número de registro relativo
+
+RMODE -> Residence Mode -> Modo Residência
+
+RPG -> Report Program Generator -> Gerador de Programa de Relatórios
+
+SPUFI -> SQL Processing Using File Input -> Processamento de SQL usando entrada de arquivo
+
+SPOOL -> Simultaneous Peripheral Operations On-Line -> Operações Periféricas Simultâneas On-Line
+
+SUB -> Submit -> Execute um Job
+
+SYSPLEX -> Systems Complex -> Sistemas Complexos
+
+TSO/E -> Time Sharing Option Extended -> Time Sharing O Opção de compartilhamento de tempo estendida
+
+U -> Undefined -> Formato Arquivo Indefinido
+
+V -> Variable -> Formato Arquivo Variável
+
+VBS -> Variable Blocked Spanned -> Tamanho de bloco variável
+
+VSAM -> Virtual Storage Access Method -> Método de acesso ao armazenamento virtual
+
+VTAM -> Virtual Telecommunications Access Method -> Método de Acesso de Telecomunicações Virtuais
+
+WLM -> Workload Manager -> Gerenciador de Carga de Trabalho
+
+Z/OS -> Z Operation System -> Z Sistema Operacional 
